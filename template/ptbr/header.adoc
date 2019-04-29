@@ -1,0 +1,7 @@
+ifdef::backend-html5[]
+[NOTE]
+====
+Esta página foi escrita no formato `AsciiDOC`. Seu código fonte está disponível em https://github.com/fabioluciano/fabioluciano.github.io[ icon:github[] Repositório do currículo, role="external", window="_blank"].
+Você pode fazer o download da versão em link:/ptbr/doc.pdf[ icon:file-pdf-o[] PDF, role="external", window="_blank"] também.
+====
+endif::[]
