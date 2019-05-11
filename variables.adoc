@@ -13,7 +13,7 @@
 :doc-version: 1.0
 :author: Integr8
 :full-name: Integr8
-:source-highlighter: rouge
+:source-highlighter: coderay
 :imagesdir: theme/image
 :favicon: /favicon.png
 :doctitle: OpenSource DevOps Tools - {element} - {author}
